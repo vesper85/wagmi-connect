@@ -1,0 +1,4 @@
+1. install dependencies
+2. wallet connect ID
+3. ensure providers are set correctly
+4. ensure chain is set correctly
